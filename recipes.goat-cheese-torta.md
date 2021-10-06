@@ -1,12 +1,10 @@
 ---
 id: wy6VkQwHYfVJXtFQ6aV5o
-title: Torta
+title: Sonoma Goat Cheese Torta
 desc: ''
 updated: 1631408952581
 created: 1631408952581
 ---
-
-# Sonoma Goat Cheese Torta
 
 ## Ingredients
 

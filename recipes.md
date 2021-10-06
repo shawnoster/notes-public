@@ -1,8 +1,9 @@
 ---
-id: t3VkFvgLCRMUpqXMBIIBo
+id: e3IrX2GzScBuazaaqCroh
 title: Recipes
 desc: ''
-updated: 1631408898226
-created: 1631408898226
+updated: 1632084609246
+created: 1632084609246
+stub: true
 ---
 

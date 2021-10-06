@@ -1,0 +1,11 @@
+version: 1
+imports: []
+schemas:
+  - id: recipes
+    children: []
+    parent: root
+    namespace: true
+    title: recipes    
+    template:
+      id: templates.recipes
+      type: note
