@@ -1,10 +1,11 @@
 ---
 id: OFlT2UJWsOgehTD5g4SgR
-title: Recipes
+title: Recipe
 desc: ''
 updated: 1632099599559
 created: 1632095807620
 ---
+
 
 # Title
 

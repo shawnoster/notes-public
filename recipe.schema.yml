@@ -1,0 +1,11 @@
+version: 1
+imports: []
+schemas:
+# this will match "recipe.*" notes
+- id: recipe
+  desc: food recipe
+  parent: root
+  namespace: true
+  template:
+    id: recipe.template
+    type: note
