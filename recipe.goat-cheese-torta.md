@@ -2,9 +2,11 @@
 id: wy6VkQwHYfVJXtFQ6aV5o
 title: Sonoma Goat Cheese Torta
 desc: ''
-updated: 1631408952581
+updated: 1637456705945
 created: 1631408952581
 ---
+
+# Sonoma Goat Cheese Torta
 
 ## Ingredients
 
@@ -34,10 +36,10 @@ created: 1631408952581
 
 ### Assemble
 
-1. Line a 3 cup mold or loaf pan with plastic wrap
-1. Spread 1/3 goat cheese
-1. Spread 1/2 cup basil mixture
-1. Spread 1/3 goat cheese
+1. Line a `3 cup` mold or loaf pan with plastic wrap
+1. Spread `1/3` goat cheese
+1. Spread `1/2` cup basil mixture
+1. Spread `1/3` goat cheese
 1. Spread all sun-dried tomatoes
 1. Spread with remaining goat cheese
 
