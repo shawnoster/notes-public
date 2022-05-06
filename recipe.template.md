@@ -9,7 +9,7 @@ created: 1632095807620
 
 # Title
 
-## Ingrediants
+## Ingredients
 
 - `13 lb` turkey carcass, juices
 
