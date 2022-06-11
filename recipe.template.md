@@ -2,14 +2,13 @@
 id: OFlT2UJWsOgehTD5g4SgR
 title: Recipe
 desc: ''
-updated: 1632099599559
+updated: 1654974485025
 created: 1632095807620
 ---
 
-
 # Title
 
-## Ingrediants
+## Ingredients
 
 - `13 lb` turkey carcass, juices
 
@@ -22,5 +21,3 @@ created: 1632095807620
 ### Next Step _(1-2 hours)_
 
 1.
-
-
