@@ -2,7 +2,7 @@
 id: GNHxIwUuojNODtHKJu9Au
 title: DOS Command-Line
 desc: ''
-updated: 1634939527379
+updated: 1654975380262
 created: 1634939498231
 ---
 
@@ -10,7 +10,7 @@ created: 1634939498231
 
 ### Using Aliases to Save Key Strokes
 
-If you can't be bothered to untrain the muscle memory of using the command line instead of PowerShell or bash then at least make your life a little easier by setting up some aliases for often typed commands.  There are mine:
+If you can't be bothered to untrain the muscle memory of using the command line instead of PowerShell or bash then at least make your life a little easier by setting up some aliases for often typed commands. These are mine:
 
 ```bash
 @echo off
