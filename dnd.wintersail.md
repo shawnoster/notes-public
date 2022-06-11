@@ -2,11 +2,10 @@
 id: 5CXZGoJsWAwNpNhhrinnq
 title: Wintersail
 desc: ''
-updated: 1639359775795
+updated: 1654975090753
 created: '2021-12-08T05:53:49.000Z'
 modified: '2021-12-08T07:32:46.000Z'
 ---
-
 
 # Wintersail - Working the Door
 
@@ -24,7 +23,7 @@ The adventure is time-based and is broken into days. The party has five days to 
 
 ## Adventure Hook
 
-The characters have been talked into helping out a local resort in exchange for a free, all-expendses paid trip to Wintersail. As a group of 1st-level they're ideal for task, with reassurances that the work is proper stuff of legend and not just waiting tables like last time.
+The characters have been talked into helping out a local resort in exchange for a free, all-expenses paid trip to Wintersail. As a group of 1st-level they're ideal for task, with reassurances that the work is proper stuff of legend and not just waiting tables like last time.
 
 The party wakes up on the deck of ship, with Wintersail a slowly growing speck on the horizon, by a playful yet terrifing Orc Pirate Captain, shouting at them to get up and reminding them of why they're on his boat.
 
@@ -38,7 +37,7 @@ He singles the group out, telling them to look for the person having the least a
 
 ### Dragon Followers
 
-Followers can be found in almost every party spot worth visiting along the beach, usually in groups of three to four, and identified by facial tattoos mimicing turtle face spot patterns. Unless antagonised they're relaxed, good-natured, happy to drink with a stranger that's buying, and open about their employeer.
+Followers can be found in almost every party spot worth visiting along the beach, usually in groups of three to four, and identified by facial tattoos mimicking turtle face spot patterns. Unless antagonized they're relaxed, good-natured, happy to drink with a stranger that's buying, and open about their employer.
 
 If pushed to fight consult the "Fighting Followers" section.
 
@@ -50,7 +49,7 @@ Shezem is the owner of the largest resort in Wintersail, and the only one allowe
 
 ### Main Bar
 
-### 
+###
 
 ---
 
@@ -81,8 +80,6 @@ They’re unconcerned about the over-staying their welcome, absorbing some of th
 - if asked for tips or suggestions on how to get her to leave they’ll be upfront about offering something for her horde.
 - any follower will happily setup as many meetings as the adventures would like
 
-
-
 ## Tides vs. Dragons
 
 This conflict is the bay itself, and the amount of space the Oum takes up, not to mention how she gets grumpy when too many people invade her chill. With her lounging in the bay there's not enough room to shape runes on the water's surface to fulfil the rite.
@@ -97,7 +94,7 @@ Your job is to get rid of the dragon however possible, before the incoming ritua
 
 ## Options
 
-The best outcome is Oum being talked into leaving early, and with the party in her good graces due to her connections. A steady stream of flattery, a generous donation to her hoarde, or performing some small pampering quest for her in exchange will all result in her leaving happily and with a small token of her apprication.
+The best outcome is Oum being talked into leaving early, and with the party in her good graces due to her connections. A steady stream of flattery, a generous donation to her hoarde, or performing some small pampering quest for her in exchange will all result in her leaving happily and with a small token of her appreciation.
 
 Things will go from bad to worse if Oum or her followers are excessively threatened or if she's put in any real danger.
 
@@ -107,11 +104,11 @@ On the very slim chance that everything is so fucked that the ritual doesn't hap
 
 ### A Favor
 
-The most common outcome is they talk to the dragon who offers a quest in exchange. It’s either to fetch something shiny, make her more comfortable, or get her drunk. 
+The most common outcome is they talk to the dragon who offers a quest in exchange. It’s either to fetch something shiny, make her more comfortable, or get her drunk.
 
 She'll offer a quest the morning after a successful meeting, where they didn't try to kill her or piss her off. It'll be some treat or reminder of the islands or thing that makes dragons drunk.
 
-Actual task can be improved or rolled, either way it should be easy for a single palyer to do in a single day. One or two easy encounters with one medium challange at the end. Both Dragon Followers and Priests will join if asked though the Priests will be tense around Followers and Followers will tend towards recklessness around Priests.
+Actual task can be improved or rolled, either way it should be easy for a single player to do in a single day. One or two easy encounters with one medium challenge at the end. Both Dragon Followers and Priests will join if asked though the Priests will be tense around Followers and Followers will tend towards recklessness around Priests.
 
 Mostly she wants to be distracted from daily life and egg pains.
 
@@ -135,7 +132,7 @@ You need three successful charisma checks (15) for three days, failing resets. I
 - Orc Pirate will shoulder the rest in exchange for 10% off her rates, including the top tier packages, good until the next ritual. A single successful charm for her to agree
 - Merchants only have a modest amount, not enough to bother robbing
 
-### Threaten 
+### Threaten
 
 - The only threat that’ll work is about her egg, and only if she’s sure they really know
 - she’s utterly paranoid and, with a successful AC, will high-tail it out of there. On a nag 20 she’ll even pay them off
@@ -155,11 +152,11 @@ Since she’s pregnant, just there for the heated pools, she will inflict maximu
 - She's highly protective, will flee at hint of harm, but will remember...
 - She's vain about her business and running a tight ship
   - She'll leave if her crew gets too rowdy out of worry for her reputation
-  - Getting them massively drunk and encourgaging Priest fights will do it
-  - If offered a lucritive contract she'll take it on the spot
+  - Getting them massively drunk and encouraging Priest fights will do it
+  - If offered a lucrative contract she'll take it on the spot
 - She's obsessed with managing her horde
   - Pointing out extra charges for staying past check-out without a new contract, and the magically binding pact that auto-teleports gold from her horde, will have her packed up and out in under 5 minutes
-- She can get sun drunk and passout if not careful
+- She can get sun drunk and pass out if not careful
   - Is out for an entire day
   - Can be towed around while passed out
   - If presented as a prank by her crew she'll laugh and leave
@@ -167,13 +164,13 @@ Since she’s pregnant, just there for the heated pools, she will inflict maximu
 
 ---
 
-## Have Fun!
+## Have Fun
 
 You've arrived in Wintersail and it's everything they said and more. As you soak in the sights and views you see a pensive-looking gnome pushing her way through the welcoming crowd of visitors and vendors. Before you can move out her way she slaps a strong palm against your chest, almost exploding, "Welcome! Welcome! Oh thank the currents you're finally here! Yes, yes, soak it all in, isn't our town just wonderful? Agreed? Good, wonderful, this way, soak and walk as I always think in my head".
 
-Shezem catchs you up with a non-stop stream of information. She owns one of the larger resorts, a few taverns, a smattering of food carts and is part investor in a few of the higher quality merchent storefronts.
+Shezem catchs you up with a non-stop stream of information. She owns one of the larger resorts, a few taverns, a smattering of food carts and is part investor in a few of the higher quality merchant storefronts.
 
-After she'd made it very clear, and you'd made the correct noises back, that normally her establishment is as efficent as a kobold death trap she explained that she was having trouble with one of her guests staying past their welcome and needed some outside help in conviencing her to leave.
+After she'd made it very clear, and you'd made the correct noises back, that normally her establishment is as efficient as a kobold death trap she explained that she was having trouble with one of her guests staying past their welcome and needed some outside help in convincing her to leave.
 
 She explains about the Dragon Turtle, the Rite of Tides, the possible end of the world, and that the dragon can't stay sober long enough to be sensible and has stopped seeing anyone on her staff, in her family, or that she's sat next to for too long.
 
@@ -194,7 +191,7 @@ Day 1 - Arrive, Intro, Wander
 - Followers - spread around, chilling, relaxed
 - Priest - on fast boat to island
 
-Day 2 - Invistage
+Day 2 - Investigate
 
 - Dragon - chilling in the bay
 - Followers - spread around, chilling, relaxed
@@ -232,9 +229,9 @@ Day 6 - Priests Plead
 
 Sweet talking, flattering, paying respectfully, or a quest or two will all result in everyone being happy and rewarding the party well. The Dragon will be quite free with items and tokens from her hoard, depending on how much they flatter her egg and/or business.
 
-The Priests will be grateful and provide moderate apprication but are too busy already planning the next ritual to give the party much notice.
+The Priests will be grateful and provide moderate appreciation but are too busy already planning the next ritual to give the party much notice.
 
-Wintersail will think the party is great fun, add it to their list of stories, and offer wild tales of adventures. 
+Wintersail will think the party is great fun, add it to their list of stories, and offer wild tales of adventures.
 
 ### Medium
 
@@ -242,4 +239,4 @@ Any threats towards against the egg puts you on Oum's shit list so the party get
 
 Again, the priests don't care how it happened so they'll offer the same reward.
 
-Wintersail will view the party neaturally, not liking how it happened but understanding why you had to do it.
+Wintersail will view the party neutrally, not liking how it happened but understanding why you had to do it.
