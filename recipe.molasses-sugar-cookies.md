@@ -2,13 +2,13 @@
 id: fT51OqxBXDbrgzfqNBYg2
 title: Molasses Sugar Cookies
 desc: ''
-updated: 1639957684204
+updated: 1654974427554
 created: 1639957074464
 ---
 
 # Molasses Sugar Cookies
 
-## Ingrediants
+## Ingredients
 
 - `1 ½` cups shortening
 - `2 cups` granulated sugar
@@ -35,10 +35,10 @@ Sift flour, baking soda, cloves, ginger, cinnamon and salt in separate bowl and 
 
 ### Mix and Chill _(2 hours)_
 
-Mix well and chill for at least 2 hours. 
+Mix well and chill for at least 2 hours.
 
 ### Bake
 
 Form in 1-inch balls, roll in sugar and place on greased cookie sheet. Bake in 375° oven for approximately 6-8 minutes.
 
-_Pomeroy over - 360 for 13min_
+- Pomeroy oven - 360 for 13min
