@@ -26,7 +26,7 @@ created: 1631408952581
 1. Blend goat cheese and semi-melted butter
     - consistency of spreadable cream cheese
     - set aside
-1. Blend sun-dried tomatoes, set aside
+1. Blend sun-dried tomatoes
     - consistency chopped but spreadable
     - set aside
 1. Blend basil, garlic, salt, pepper
@@ -38,7 +38,7 @@ created: 1631408952581
 
 1. Line a `3 cup` mold or loaf pan with plastic wrap
 1. Spread `1/3` goat cheese
-1. Spread `1/2` cup basil mixture
+1. Spread `1/2 cup` basil mixture
 1. Spread `1/3` goat cheese
 1. Spread all sun-dried tomatoes
 1. Spread with remaining goat cheese
