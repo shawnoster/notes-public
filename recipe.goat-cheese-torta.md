@@ -11,7 +11,7 @@ created: 1631408952581
 ## Ingredients
 
 - `1 lb` mild goat cheese
-- `1/2 lb` unsalted butter (1 stick)
+- `1/2 cup` unsalted butter, semi-melted (1 stick)
 - `6 oz` sun-dried tomatoes packed in oil (but drained)
 - `2 cups` basil, firmly packed
 - `4 cloves` of garlic
@@ -23,7 +23,7 @@ created: 1631408952581
 
 ### Blend
 
-1. Blend goat cheese and butter
+1. Blend goat cheese and semi-melted butter
     - consistency of spreadable cream cheese
     - set aside
 1. Blend sun-dried tomatoes, set aside
